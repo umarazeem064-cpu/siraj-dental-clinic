@@ -1,0 +1,6 @@
+{
+  "name": "Siraj Dental Clinic — Quetta",
+  "description": "Painless dental care, cosmetic dentistry, clear aligners, implants, and family dentistry by Dr. Dawood Kakar at Alam Khan Chowk, Killi Shaboo, Quetta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
